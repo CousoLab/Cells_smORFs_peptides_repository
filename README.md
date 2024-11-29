@@ -1,0 +1,1 @@
+We have uploaded the spectra images and associated data files to GitHub and provided the link in the manuscript, and we are uploading the raw files to MassIVE. When we publish our full proteomics results we will make the raw files publicly available, provide the link in GitHub folder as well, and reference this Cells article in the new publication.
